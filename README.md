@@ -1,5 +1,5 @@
 # vue-webpack
-配置一个Vue.js项目的webpack
+基于Webpack 4.x搭建Vue开发环境
 
 ## yarn install
 
